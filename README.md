@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syzwnii&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syzwnii&hide_progress=true&theme=panda&layout=compact)](https://github.com/syzwnii/github-readme-stats)
