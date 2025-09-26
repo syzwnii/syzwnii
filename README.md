@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syzwnii&hide_progress=true&theme=panda&layout=compact)](https://github.com/syzwnii/github-readme-stats)
-
 ### Languages, Framework and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="" width="40" height="40"/>&nbsp;
